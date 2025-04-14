@@ -1,5 +1,5 @@
 # 🔐 Login Page with Authentication (JWT + bcrypt)
-
+ 
 A secure login/register system built using the MERN stack (MongoDB, Express, React, Node.js) with JWT-based authentication and bcrypt for password hashing.
 
 ## 🚀 Features
